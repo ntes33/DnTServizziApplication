@@ -1,4 +1,4 @@
-# Sistema di Gestione Azienda di Pulizia
+# Sistema di Gestione Azienda di Pulizia (in elaborazione)
 
 Un'applicazione per la gestione di un'azienda di pulizie, che include il controllo di dipendenti, clienti, lavori e risorse necessarie. Il progetto è sviluppato in **Java**, utilizza **Spring Boot** per il backend e si interfaccia con un database relazionale.
 
